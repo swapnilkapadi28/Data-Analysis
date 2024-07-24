@@ -26,6 +26,9 @@ This dashboard helps the owner of pizza store to understand its sales performanc
 - Total Pizzas Sold: 49,576
 - Total Orders: 21,350
 - Average Pizza per Order: 2.32
+  
+![image](https://github.com/user-attachments/assets/14090175-1a96-4608-afb6-2a7a27f21acd)
+
 ### Daily, Weekly and Montly Order Trends
 - Highest sales on Fridays with 3,538 orders.
 - Lowest sales on Sundays with 2,624 orders.
