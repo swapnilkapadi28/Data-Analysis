@@ -29,27 +29,39 @@ This dashboard helps the owner of pizza store to understand its sales performanc
   
 ![image](https://github.com/user-attachments/assets/14090175-1a96-4608-afb6-2a7a27f21acd)
 
-### Daily, Weekly and Montly Order Trends
+### Daily and Montly Order Trends
 - Highest sales on Fridays with 3,538 orders.
 - Lowest sales on Sundays with 2,624 orders.
 
 - Highest sales in January with 1,935 orders.
 - Lowest sales in August with 1,646 orders.
+
+![image](https://github.com/user-attachments/assets/0f9df084-96a1-4799-a0a5-9eb830bc8549)
+
 ### Percentage of Sales by Pizza Category
 - Classic: 26.91%
 - Supreme: 25.46%
 - Veggie: 23.68%
 - Chicken: 23.96%
+
+![image](https://github.com/user-attachments/assets/d6759246-ceff-40b5-b4d3-87a0a9a4a549)
+
  ### Percentage of Sales by Pizza Size
 - Large: 45.89%
 - Medium: 30.49%
 - Small: 21.56%
 - Extra Large: 1.72
+
+![image](https://github.com/user-attachments/assets/174bc8db-b1b0-40f5-ad75-4679e834033d)
+
 ### Total Pizza Sold by Category
 - Classic: 44,888
 - Supreme: 11,987
 - Veggie:  11,649
 - Chicken: 11,050
+
+![image](https://github.com/user-attachments/assets/4bc052a4-d06a-45e6-ae00-8fb8ddc67903)
+
 ### Top 5 Pizzas by Revenue
 -The Thai Chicken: $43,434.25
 - The Barbecue Chicken: $42768.00
@@ -87,7 +99,10 @@ This dashboard helps the owner of pizza store to understand its sales performanc
 - The Calabrese: 918
 - The Spinach Alfredo: 918
 - The Mediterranean: 912
-- The Brie Carre: 480 
+- The Brie Carre: 480
+
+![image](https://github.com/user-attachments/assets/0f30a69c-acc3-430e-bc0d-663f9794fa14)
+
 
 # Insights
 ### Revenue and Sales:
